@@ -1,0 +1,7 @@
+C:\Users\Itay Cohen\Desktop\Projects\SpamCLI\SpamCLI\bin\Debug\SpamCLI.exe.config
+C:\Users\Itay Cohen\Desktop\Projects\SpamCLI\SpamCLI\bin\Debug\SpamCLI.exe
+C:\Users\Itay Cohen\Desktop\Projects\SpamCLI\SpamCLI\bin\Debug\SpamCLI.pdb
+C:\Users\Itay Cohen\Desktop\Projects\SpamCLI\SpamCLI\obj\Debug\SpamCLI.csprojAssemblyReference.cache
+C:\Users\Itay Cohen\Desktop\Projects\SpamCLI\SpamCLI\obj\Debug\SpamCLI.csproj.CoreCompileInputs.cache
+C:\Users\Itay Cohen\Desktop\Projects\SpamCLI\SpamCLI\obj\Debug\SpamCLI.exe
+C:\Users\Itay Cohen\Desktop\Projects\SpamCLI\SpamCLI\obj\Debug\SpamCLI.pdb
